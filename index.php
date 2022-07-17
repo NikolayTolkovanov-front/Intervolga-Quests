@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php include "./first/first.php" ?>
-    <?php include "./second/second.php" ?>
+    <!-- <?php include "./first/first.php" ?> -->
+    <?php include "./second/upload.php" ?>
 </body>
 </html>
